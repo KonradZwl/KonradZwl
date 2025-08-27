@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KonradZwl, a fourth year Software Engineering student!
+- 👋 Hi, I’m @KonradZwl, a Software Engineer and AI enthousiast!
 - 👀 I’m interested in expanding my knowlegde about IT, Programming and Artificial Intelligence.
 - 🌱 I have knowlegde about Java, C#, HTML, CSS, JS, React, Angular, Tailwind, Azure, DevOps and some common testing frameworks like JUnit, XUnit, Cypress and Jasmine. I’m currently learning C++ in my sparetime.
 - 💞️ I’m looking to collaborate on projects where we can learn and share knowledge with each other.
